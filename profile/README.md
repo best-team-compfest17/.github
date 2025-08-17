@@ -34,7 +34,7 @@ Organisasi Tim ini dibuat oleh Team 1 pada SEA Academy Compfest 17
 <li>Haikal Iman F - Mobile Developer</li>
 <li>Muhammad Favian Jiwani - Mobile Developer</li>
 <li>Raditya Ramadhan - Backend Developer</li>
-<li>Muhammad Ridho Ananda - Backend Developer</li>
+<li>Muhammad Ridho Ananda - Mentor</li>
 </ul>
 
 ---
